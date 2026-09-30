@@ -3,4 +3,4 @@
         Homepage
     </x-slot:heading>
 
-</x-layout>
+</x-layout> 
